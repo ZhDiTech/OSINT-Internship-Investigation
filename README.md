@@ -41,3 +41,4 @@ No direct evidence of fraud or email spoofing was identified. However, additiona
 * Analytical Reporting
 * Documentation
 
+![Lab Network](OSINT-Inernship.png)
